@@ -10,8 +10,22 @@
     "type": "git",
     "url": "https://github.com/facet/intercom.git"
   },
+  "keywords": [
+    "facet",
+    "facet-intercom",
+    "intercom",
+    "communication",
+    "pub-sub",
+    "pub/sub",
+    "pub",
+    "sub"
+  ],
   "author": "",
-  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facet/intercom/issues"
+  },
+  "homepage": "https://github.com/facet/intercom",
+  "license": "MIT",
   "dependencies": {
     "eventemitter2": "^0.4.14"
   }
